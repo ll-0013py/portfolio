@@ -84,7 +84,7 @@ leadership:
       company: ""
       duration: ""
 portfolio:
-  enable: true
+  enable: false
   item:
     - title: Easy DMARC
       image: https://res.cloudinary.com/samrobbins/image/upload/v1597159067/Easy_DMARC_hkcgif.webp
@@ -100,3 +100,17 @@ portfolio:
     - label: Web Dev
       value: web-dev
 
+    - label: Mobile App Dev
+      value: mobile-dev
+
+    - label: Design & UI/UX
+      value: design-ux
+
+    - label: Open Source
+      value: open-source
+
+    - label: Other
+      value: other
+
+    - label: Music
+      value: music
