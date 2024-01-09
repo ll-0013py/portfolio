@@ -1,8 +1,10 @@
 # Base information
-# baseURL = "https://ll-0013py.github.io/portfolio/"
+baseURL = "https://ll-0013py.github.io/portfolio/"
 languageCode = "en-gb"
 title = "Ray's website"
 googleAnalytics = "G-K07GGNP9LQ"
+
+publishDir = "docs"
 
 theme = "hugo-developer-portfolio"
 
