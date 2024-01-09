@@ -4,8 +4,6 @@ languageCode = "en-gb"
 title = "Ray's website"
 googleAnalytics = "G-K07GGNP9LQ"
 
-publishDir = "docs"
-
 theme = "hugo-developer-portfolio"
 
 [module]
