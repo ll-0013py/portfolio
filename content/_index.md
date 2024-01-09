@@ -1,10 +1,10 @@
 ---
-date: 2017-10-19T15:26:15Z
-lastmod: 2019-10-26T15:26:15Z
-publishdate: 2018-11-23T15:26:15Z
-author: Sam Robbins
-title: Sam Robbins' Website
-description: I'm a second year Computer Science student at Durham
+date: 2024-01-10T06:00:00+08:00
+lastmod: 2024-01-10T06:00:00+08:00
+publishdate: 2024-01-10T06:00:00+08:00
+author: Ray
+title: Ray' Website
+description: University student from Japan studying Computer Science and Data Science in Malaysia
 images:
 - home-cover.png
 ---
