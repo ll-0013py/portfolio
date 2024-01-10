@@ -20,10 +20,8 @@ Currently, I am open to remote part-time opportunities and actively seeking an i
 - 2023: Graduated from a Japanese high school
 - 2023: Taking MUFY at Sunway College in Malaysia
 ## ● Awards
-### Junior High School
-- 🥇 The championship in the team competition of the prefectural Shogi (Japanese Chess) tournament
+- 🥇 The championship in the team competition of the prefectural Shogi (Japanese Chess) tournament (Junior High Shool)
 - 🥈 2nd place in the team competition and 🥉 3rd place in the individual competition of the Shogi (Japanese Chess) tournament
-### High School
 - 🥇 The Grand prize and 🎖️ Effort award at several science fairs in Japan for my Text-to-Speech research
 - 🗺 Participated in a world science fair called "Global link online" with that study
 - 🥉 3rd place in the national computer typing contest sponsored by The Mainic
