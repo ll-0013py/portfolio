@@ -12,6 +12,8 @@ The portfolio page showcases my diverse range of creations. My passion lies in w
 
 Currently, I am open to remote part-time opportunities and actively seeking an internship. Please don't hesitate to reach out; you can send inquiries through direct messages on different social networking platforms for a faster response.
 
+### [My Website](https://ray-globallife.com/)
+
 ### [All My Contact Information](https://ll-0013py.github.io/connect-with-me/)
 
 # Self-introduction
