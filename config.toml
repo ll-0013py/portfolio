@@ -57,7 +57,7 @@ author = "Ray"
   formAction = "" #contact form works with formspree.io
 
   [params.footer]
-  email = "rr2024.web3@gmail.com"
+  email = "N/A"
   address = "Subang Jaya, Malaysia & Japan"
   googlemaps = "https://maps.app.goo.gl/BX96wqcMPZBbrDu76"
 
